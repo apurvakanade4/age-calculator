@@ -1,0 +1,47 @@
+*{
+    color: white;
+}
+body{
+    
+    background-color: rgb(232, 213, 190);
+}
+.container{
+    width: 800px;
+    background-color: rgba(2, 34, 50, 0.9);
+    margin-left: 300px;
+    margin-top: 200px;
+    border-radius: 15px;
+}
+h2{
+    font-weight: bolder;
+    text-align: center;
+    color: coral;
+}
+form{
+    text-align: center;
+    color: black;
+}
+footer {
+       text-align: center;
+       word-spacing: 10px;
+}
+input{
+    margin: 20px;
+    background-color: cadetblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+#apurva{
+    padding: 5px;
+    border-radius: 5px;
+    width: 120px;
+    font-weight: bolder;
+    background-color: rgb(227, 35, 35);
+}
+#saket{
+    padding: 5px;
+    border-radius: 5px;
+    width: 50px;
+    font-weight: bolder;
+    background-color: rgb(227, 35, 35);
+}
